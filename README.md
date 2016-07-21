@@ -12,6 +12,7 @@ This git project collects my favorite links.
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [关于点击率模型，你知道这三点就够了](http://www.meihua.info/a/65329)
 - [Singular Value Decomposition Part 2: Theorem, Proof, Algorithm](https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/)
+- [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
 
 # Programming Language
 ### Java
@@ -26,9 +27,11 @@ This git project collects my favorite links.
 ### Operation
 - [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 - [Linux Profiling at NetFlix](http://www.slideshare.net/brendangregg/scale2015-linux-perfprofiling)
+- [Al's Cassandra 2.1 tuning guide](https://tobert.github.io/pages/als-cassandra-21-tuning-guide.html)
 
 ### Source Control
 - [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 
 ### Build Tool
 - [Gradle fatjar](https://github.com/johnrengelman/shadow)
+
