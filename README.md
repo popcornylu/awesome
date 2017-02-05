@@ -19,6 +19,8 @@ This git project collects my favorite links.
 - [关于点击率模型，你知道这三点就够了](http://www.meihua.info/a/65329)
 - [Singular Value Decomposition Part 2: Theorem, Proof, Algorithm](https://jeremykun.com/2016/05/16/singular-value-decomposition-part-2-theorem-proof-algorithm/)
 - [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html)
+- [Rules of Machine Learning:
+Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 # Programming Language
 ### Java
